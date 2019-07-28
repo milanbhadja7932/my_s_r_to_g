@@ -21,10 +21,15 @@
   we have to convert image into gray scale means remove the color like red,blue and greeen. our final goal is convert images into gray scale.
   
 # Input Images
-   
    As a example we pass any image which photo is below here.
+   <p align="center">
+  <img src="https://github.com/milanbhadja7932/rgb-to-gray/blob/master/color_24.jpg" width="350" alt="accessibility text">
+     </p>
    
 # Output Images
    As a output we get the Images in Gray scale.
+   <p align="center">
+  <img src="https://github.com/milanbhadja7932/rgb-to-gray/blob/master/gray_24.jpg" width="350" alt="accessibility text">
+     </p>
    
    
