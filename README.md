@@ -30,13 +30,14 @@
      </p>
 
 # Input Images
-   As a example we pass any image which photo is below here.
+   As a example we pass any image which photo is below here.We like some pockemen so as a testing purpose i choose one pockemen photo.
+   in this input we show the image with rgb value.
    <p align="center">
   <img src="https://github.com/milanbhadja7932/rgb-to-gray/blob/master/color_24.jpg" width="350" alt="accessibility text">
      </p>
    
 # Output Images
-   As a output we get the Images in Gray scale.
+   As a output we get the Images in Gray scale.So pockemen is converted into grayscale.Our photo now become without any rgb value finally our output look like this.
    <p align="center">
   <img src="https://github.com/milanbhadja7932/rgb-to-gray/blob/master/gray_24.jpg" width="350" alt="accessibility text">
      </p>
