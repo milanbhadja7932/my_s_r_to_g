@@ -23,8 +23,9 @@
   we have to convert image into gray scale means remove the color like red,blue and greeen. our final goal is convert images into gray scale.
 
 # Color Images
-     We are look into the image how the structure of this images in our problem.so we can evaluate the problem very good manner. as well as we can give instruction for other person
-     <p align="center">
+     We are look into the image how the structure of this images in our problem.so we can evaluate 
+     the problem very good manner. as well as we can give instruction for other person
+  <p align="center">
   <img src="https://github.com/milanbhadja7932/rgb-to-gray/blob/master/400px-Beyoglu_4671_tricolor.png" width="550" alt="accessibility text">
      </p>
 
