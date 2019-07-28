@@ -6,9 +6,8 @@
 # Overview
 
     We have a lots of images in which regular image is convert into gray which is more useful for us.
-    tensorflow have a library for convert images is <b>tf.image.rgb_to_grayscale</b> and 
-    opencv have also library for this <b>cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-</b>.
+    tensorflow have a library for convert images is "tf.image.rgb_to_grayscale" and 
+    opencv have also library for this "cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)".
 
 # Requirements
 
